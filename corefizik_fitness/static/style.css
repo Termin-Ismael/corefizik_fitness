@@ -1,0 +1,17 @@
+h1{
+    text-shadow: 2px 2px 1px purple;
+}
+
+h2{
+    color:pink;
+    text-align: center;
+    font-family: Cambria, 'Times New Roman', Calibri;
+    font-style: normal;
+    font-size: 12px;
+}
+
+p{
+    direction: rtl;
+    unicode-bidi: normal;
+    text-transform: capitalize;
+}
